@@ -1,0 +1,104 @@
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\ApplicationInsights.config
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\JsonConsumer.dll.config
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\JsonConsumer.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\JsonConsumer.pdb
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Helpers.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Mvc.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Optimization.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Razor.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\WebGrease.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Helpers.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Mvc.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Optimization.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.Razor.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.pdb
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\RestSharp.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.ValueTuple.dll
+C:\Users\Lenovo T430\source\repos\JsonConsumer\JsonConsumer\bin\System.ValueTuple.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\ApplicationInsights.config
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\JsonConsumer.dll.config
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\JsonConsumer.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\JsonConsumer.pdb
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Antlr3.Runtime.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.Web.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Newtonsoft.Json.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\RestSharp.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.ValueTuple.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Helpers.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Mvc.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Optimization.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Razor.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\WebGrease.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.ValueTuple.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Helpers.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Mvc.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Optimization.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.Razor.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Antlr3.Runtime.pdb
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Newtonsoft.Json.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\Microsoft.AI.Web.xml
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.dll
+C:\Users\Maurício\Desktop\JsonConsumer\JsonConsumer\obj\Debug\JsonConsumer.pdb

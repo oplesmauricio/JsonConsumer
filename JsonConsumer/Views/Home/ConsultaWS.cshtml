@@ -1,0 +1,42 @@
+﻿@model JsonConsumer.Models.Estado
+<style>
+    .btn {
+        width: 300px;
+        height: 30px;
+        margin: 5px;
+    }
+</style>
+<h2>Lista de Estados Vinda do Web Api</h2>
+<div style="margin:50px">
+    <div style="float:left">
+
+        @using (@Html.BeginForm("ConsultaWs", "Home", FormMethod.Get))
+        {
+            <div style="float:left; padding-right:16px"><text>codigo do país:</text></div>
+            @Html.TextBoxFor(model => model.RestResponse.result.country)<br />
+            <div style="float:left"><text>codigo do estado:</text></div>
+            @Html.TextBoxFor(model => model.RestResponse.result.abbr)<br /><br />
+            <button type="submit" formaction="@Url.Action("ConsultaWs", "Home")" name="btnCsWs" class="btn">Consulta WS</button><br />
+            <button type="submit" formaction="@Url.Action("InsereDB", "Home")" name="btnInsereDB" class="btn">Insere DB</button><br />
+            <button type="submit" formaction="@Url.Action("ConsultaDB", "Home")" name="btnCsDB" class="btn">Consulta DB</button><br />
+        }
+    </div>
+    <div style="padding-left:500px">
+        </br>
+        <text>Origem:</text> <label id="lblOrigem">WebApi</label>
+        </br>
+        <text>Id:</text><label id="lblId">@Model.RestResponse.result.id</label>
+        </br>
+        <text>Country:</text><label id="lblCountry">@Model.RestResponse.result.country</label>
+        </br>
+        <text>Name:</text><label id="lblName">@Model.RestResponse.result.name</label>
+        </br>
+        <text>Abbr:</text><label id="lblAbbr">@Model.RestResponse.result.abbr</label>
+        </br>
+        <text>Area:</text><label id="lblArea">@Model.RestResponse.result.area</label>
+        </br>
+        <text>Largest City:</text><label id="lblLargest_city">@Model.RestResponse.result.largest_city</label>
+        </br>
+        <text>Capital:</text><label id="lblCapital">@Model.RestResponse.result.capital</label>
+    </div>
+</div>
